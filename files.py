@@ -26,3 +26,4 @@ f1 = MyFile("key.txt")
 for _ in range(3):
     f1.write_to_file(input())
     print(f1.read_file())
+    print("bjkh")
