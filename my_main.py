@@ -1,5 +1,9 @@
+from manager import Manager
+
+
 def main():
-    pass
+    logger = Manager()
+    logger.start()
 
 
 
